@@ -22,4 +22,7 @@ That's due to some new changes in npm and node. You can resolve it by changing i
 
 `Run npm install` to `Run npm install --legacy-peer-deps`
 
+### The same project with Webpack
+
+https://github.com/Methkal1990/Pokemon-Cards-webpack
 
